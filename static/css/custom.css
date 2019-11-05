@@ -1,0 +1,61 @@
+body {
+	font-family: 'Ubuntu';
+	background-color: #E5E5E5;
+}
+
+
+.fa.brand {
+	margin: 15px 0px 15px 0px;
+	font-size: 3.5em;
+}
+
+header.che {
+	margin-top: 50px;
+	min-height: 370px;
+	text-align: center;
+}
+
+.footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #212227;
+  color: #fff; }
+
+.copyright {
+  background-color: #212227;
+  border-top: 1px solid #3c3b38;
+	color: #828282 !important; }
+
+a {
+  color: #828282; }
+  a:focus, a:hover, a:active {
+    color: #f5f5f5; }
+
+.social {
+	font-size: 1.5em;
+	color: #f5f5f5;
+}
+
+.social span {
+	font-size: 0.7em;
+}
+
+.codeschool {
+	margin-left: 3px;
+	margin-top: 4px;
+}
+
+.codeschool span{
+	margin-left: 5px;
+}
+
+.mail {
+	font-size: 1.5em;
+	color: #f5f5f5;
+	margin-top: 20px;
+}
+
+.mail span {
+	font-size: 0.7em;
+	color: #828282;
+}

@@ -1,0 +1,10 @@
+---
+
+version: "2"
+
+services:
+  chesnovskyru:
+    image: chesnovsky/chesnovskyru:latest
+    container_name: chesnovskyru
+    ports: 
+      - 80:8080
